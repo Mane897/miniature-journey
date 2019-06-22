@@ -1,0 +1,7 @@
+C:\Users\Dell\source\repos\Clases\Clases\bin\Debug\Clases.exe.config
+C:\Users\Dell\source\repos\Clases\Clases\bin\Debug\Clases.exe
+C:\Users\Dell\source\repos\Clases\Clases\bin\Debug\Clases.pdb
+C:\Users\Dell\source\repos\Clases\Clases\obj\Debug\Clases.csprojAssemblyReference.cache
+C:\Users\Dell\source\repos\Clases\Clases\obj\Debug\Clases.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Clases\Clases\obj\Debug\Clases.exe
+C:\Users\Dell\source\repos\Clases\Clases\obj\Debug\Clases.pdb
